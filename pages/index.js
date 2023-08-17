@@ -65,7 +65,7 @@ function Header() {
     <StyledHeader>
       <StyledBanner bg={config.bg} />
       <section className="user-info">
-        <img src={`https://github.com/omariosouto.png`} />
+        <img src={`https://media.licdn.com/dms/image/C4E03AQEnfeN1HHSEKg/profile-displayphoto-shrink_800_800/0/1554688119881?e=1697673600&v=beta&t=AbbxcJOXF3vQeZ_pjw78W_44FXhSxjZzy0XQDaLL9es`} />
         <div>
           <h2>
             {config.name}
