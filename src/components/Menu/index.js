@@ -17,6 +17,7 @@ const StyledMenu = styled.header`
   .logo {
     width: 100%;
     max-width: 80px;
+    border-radius: 4px;
     @media (min-width: 600px) {
       max-width: 127px;
     }
